@@ -1,0 +1,14 @@
+Saffi Ahmad
+CPAN 212
+Job Posting App
+
+Database:
+https://www.kaggle.com/datasets/arshkon/linkedin-job-postings
+
+Features:
+Connected Express app to MongoDB using Mongoose.
+Created JobPosting schema and model.
+Implemented full CRUD routes (GET, POST, PUT, DELETE).
+Added validation middleware for job data.
+Enhanced GET route with searching, sorting, and pagination features.
+Tested and working on Postman.
